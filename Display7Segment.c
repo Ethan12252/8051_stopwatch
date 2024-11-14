@@ -1,1 +1,0 @@
-unsigned char seg_code[] = { 0x0c
